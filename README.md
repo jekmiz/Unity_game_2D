@@ -1,1 +1,1 @@
-Unity game providing character and background animations. 
+Unity game with character and background animations. 
